@@ -14,7 +14,7 @@
   - Jump to overcome certain obstacles.
   - Survive with only one log.
   
- ### Features of the application:
+ ### Features of the game:
   - The game can run on many different operating systems.
   - Supports IOS, Android and Windows devices.
   - Can be played offline.
