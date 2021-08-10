@@ -28,6 +28,10 @@
   
  ### Some images of the application:
  
+  ![DemoGame](https://github.com/LQVinh9/GameJumpForever/blob/main/Image/demo.gif)
+  <br />
+  <hr />
+  <br />
   <img src="https://github.com/LQVinh9/GameJumpForever/blob/main/Image/image1.jpg" width="100%" height="100%">
   <br />
   <hr />
