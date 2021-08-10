@@ -54,6 +54,8 @@
   
   ## About me
 
+<img src="https://img.shields.io/github/followers/LQVinh9?style=social"> &nbsp; <img src="https://img.shields.io/github/stars/LQVinh9?style=social"> &nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/LQVinh9?style=social)
+
 Hi, I'm Vinh. I'm developing to make services that will improve our live.
 
 👨‍🎓 Studying at FPT University. <br />
