@@ -4,6 +4,8 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-60.6%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/GameJumpForever?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/GameJumpForever?style=social)
+ 
  The character in the game will jump forever, the aim is to earn as many coins as possible and destroy the monsters.
  
  Techs: C#, Javascript, Unity 2020
