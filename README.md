@@ -2,7 +2,7 @@
  
  *The application was developed on June 12, 2019*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-60.6%20MB-blue"> <img src="https://img.shields.io/badge/language-C%13-orange">
+ <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-60.6%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
  The character in the game will jump forever, the aim is to earn as many coins as possible and destroy the monsters.
  
