@@ -28,7 +28,7 @@
   
  ### Some images of the application:
  
-  ![DemoGame](https://github.com/LQVinh9/GameJumpForever/blob/main/Image/demo.gif)
+  <img src="https://github.com/LQVinh9/GameJumpForever/blob/main/Image/demo.gif" width="100%" height="100%">
   <br />
   <hr />
   <br />
