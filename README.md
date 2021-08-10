@@ -21,12 +21,12 @@
 
  ### Link download game JumpForever:
   - #### Android: [<img src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" width="30px">](https://drive.google.com/drive/folders/1eQepRrutQqb6kjDbmbOBlIFVLQqo7Irk?usp=sharing)
-  - #### Android: [<img src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" width="30px">](https://drive.google.com/drive/folders/1izUH_as9_RkUhgNWd-IZ7tRbbIdN9UeJ?usp=sharing)
-  - #### Android: [<img src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" width="30px">](https://drive.google.com/drive/folders/1RR0vDFsbw98mW3Hqogsfta0oBvldt7Sl?usp=sharing)
+  - #### IOS: [<img src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" width="30px">](https://drive.google.com/drive/folders/1izUH_as9_RkUhgNWd-IZ7tRbbIdN9UeJ?usp=sharing)
+  - #### Windows: [<img src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" width="30px">](https://drive.google.com/drive/folders/1RR0vDFsbw98mW3Hqogsfta0oBvldt7Sl?usp=sharing)
   
  ### Some images of the application:
  
-  <img src="https://github.com/LQVinh9/GameJumpForever/blob/main/Image/image1.jpg" width="60%" height="60%">
+  <img src="https://github.com/LQVinh9/GameJumpForever/blob/main/Image/image1.jpg" width="100%" height="100%">
   <br />
   <hr />
   <br />
